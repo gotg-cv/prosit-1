@@ -1,0 +1,22 @@
+# Requirements for Road Defect Detection System (Prosit 1)
+# Team: Naa Lamle Boye, Thomas Kojo Quarshie, Chelsea Owusu, Elijah Boateng
+
+# Core Computer Vision Library
+opencv-python>=4.8.0  # OpenCV for image processing, camera calibration, and homography
+
+# Numerical Computing
+numpy>=1.23.0  # Array operations and matrix calculations
+
+# Visualization
+matplotlib>=3.7.0  # Plotting and image display
+ipympl>=0.9.0  # Interactive matplotlib widgets (for point selection)
+
+# Jupyter Notebook Support
+jupyter>=1.0.0  # Jupyter notebook interface
+ipykernel>=6.25.0  # Jupyter kernel for Python
+
+# Image Processing (optional, for additional image operations)
+Pillow>=9.5.0  # PIL for image file handling
+
+# Data Handling
+scipy>=1.10.0  # Scientific computing (may be needed for advanced operations)

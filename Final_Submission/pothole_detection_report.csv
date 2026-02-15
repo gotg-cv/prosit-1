@@ -1,0 +1,3 @@
+Frame_ID,Pothole_ID,Area_cm2,Center_X_cm,Center_Y_cm,Perimeter_cm,Equivalent_Diameter_cm,Aspect_Ratio
+pothole_1,1,6001.02,103.70,94.70,616.20,87.41,0.96
+pothole_1,2,1698.08,31.60,199.90,255.50,46.50,2.63
